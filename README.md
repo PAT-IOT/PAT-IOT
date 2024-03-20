@@ -1,7 +1,7 @@
 ﻿# Pourya AfshinTabar
 
 <p align="right">
-  <img src="./photo.jpg" alt="PCBs">
+  <img src="./sphoto.jpg" alt="PCBs">
 </p>
 
 
