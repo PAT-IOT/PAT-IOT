@@ -1,4 +1,4 @@
-<img align="right" src="./robot.jfif" alt="PCBs">
+<img align="right" src="./Robot.jfif" alt="PCBs">
 
 # Pourya AfshinTabar
 
