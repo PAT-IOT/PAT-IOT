@@ -1,6 +1,6 @@
 ﻿# Pourya AfshinTabar
 
-<p align="center">
+<p align="right">
   <img src="./photo.jpg" alt="PCBs">
 </p>
 
