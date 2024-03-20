@@ -1,7 +1,7 @@
 ﻿# Pourya AfshinTabar
 
 <p align="center">
-  <img src="./PCBs.png" alt="PCBs">
+  <img src="./PCBs.webp" alt="PCBs">
 </p>
 
 
